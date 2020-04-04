@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "775098875431",
+    "firebase_url": "https://fir-test-665d4.firebaseio.com",
+    "project_id": "fir-test-665d4",
+    "storage_bucket": "fir-test-665d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775098875431:android:114dcf247acc6623835802",
+        "android_client_info": {
+          "package_name": "com.earaujo.notificationbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775098875431-o9vhtt7a632pcg7ee909dlp5rtp5hee9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiIHZkm3llB6nn14Dguu9NBBdaIJ5BY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775098875431-o9vhtt7a632pcg7ee909dlp5rtp5hee9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775098875431-kvpse198mobekjqhvatekljp2fjhep2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fs.Sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775098875431:android:8deedf40af858284",
+        "android_client_info": {
+          "package_name": "com.earaujo.poc.myanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775098875431-o9vhtt7a632pcg7ee909dlp5rtp5hee9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiIHZkm3llB6nn14Dguu9NBBdaIJ5BY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775098875431-o9vhtt7a632pcg7ee909dlp5rtp5hee9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775098875431-kvpse198mobekjqhvatekljp2fjhep2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fs.Sample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

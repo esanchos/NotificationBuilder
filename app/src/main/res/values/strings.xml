@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotificationBuilder</string>
+    <string name="msg_token_fmt">TOKEN: %s</string>
+
+    <string name="title">Dica</string>
+    <string name="content">Como colocar senha no WhatsApp e proteger seus arquivos</string>
+    <string name="image_url">https://heroblog.com.br/wp-content/uploads/2020/01/original-1887c2c71b0449af2978b787b32e20ec-724x308.jpg</string>
+    <string name="url">https://heroblog.com.br/senha-no-whatsapp/</string>
+    <string name="action_text">Saiba mais</string>
+    <string name="show_notification">Show Notification</string>
+
+</resources>
