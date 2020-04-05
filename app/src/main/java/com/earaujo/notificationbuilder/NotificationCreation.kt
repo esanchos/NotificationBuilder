@@ -10,6 +10,7 @@ import android.graphics.Bitmap
 import android.os.Build
 import android.support.v4.app.NotificationCompat
 import android.support.v4.app.NotificationManagerCompat
+import android.support.v4.content.ContextCompat
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.target.SimpleTarget
 import com.bumptech.glide.request.transition.Transition
@@ -35,6 +36,7 @@ object NotificationCreation {
             setAutoCancel(true)
             setContentIntent(mainPIntent)
             priority = NotificationCompat.PRIORITY_DEFAULT
+            color = ContextCompat.getColor(context, R.color.colorPrimary)
 
             getActionPendingIntent(context, model.url)?.let {
                 addAction(R.drawable.ic_like, model.actionText, it)
