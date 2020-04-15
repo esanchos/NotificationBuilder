@@ -30,7 +30,7 @@ object NotificationCreation {
         )
 
         NotificationCompat.Builder(context, CHANNEL_ID).apply {
-            setSmallIcon(R.mipmap.ic_launcher)
+            setSmallIcon(R.drawable.appicon)
             setContentTitle(model.title)
             setContentText(model.content)
             setAutoCancel(true)
